@@ -1,7 +1,7 @@
 import telepot
 from zaycevnet_parser import Parser
 
-token = 'API_BOT_KEY'
+token = '1615610481:AAHPlLTfaFHYBo2h9Ot4IoxDG-W8avU6wnQ'
 
 parser = Parser()
 
